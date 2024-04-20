@@ -1,0 +1,23 @@
+{
+  "name": "aggregatepush",
+  "version": "1.0.0",
+  "description": "聚合推送",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "聚合",
+    "推送",
+    "小米"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.13",
+    "@types/urlencode": "^1.1.2",
+    "axios": "^0.25.0",
+    "ts-node": "^10.4.0",
+    "urlencode": "^1.1.0"
+  }
+}
